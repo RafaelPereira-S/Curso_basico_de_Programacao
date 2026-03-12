@@ -1,1 +1,1 @@
-# curso-basico-de-programa-o
+# Estrutura do curso básico
